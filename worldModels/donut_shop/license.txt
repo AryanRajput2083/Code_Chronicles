@@ -1,0 +1,11 @@
+Model Information:
+* title:	Donut Shop
+* source:	https://sketchfab.com/3d-models/donut-shop-f8d6444d6250419fb9cd880ccc9f7247
+* author:	Bob.Ho (https://sketchfab.com/Bob.Ho)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Donut Shop" (https://sketchfab.com/3d-models/donut-shop-f8d6444d6250419fb9cd880ccc9f7247) by Bob.Ho (https://sketchfab.com/Bob.Ho) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

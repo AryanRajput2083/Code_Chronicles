@@ -1,0 +1,11 @@
+Model Information:
+* title:	Worn T-Shirt
+* source:	https://sketchfab.com/3d-models/worn-t-shirt-d1f9599ae1c04af88d17181c5ce3801e
+* author:	KotaBearHix (https://sketchfab.com/KotaBearHix)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Worn T-Shirt" (https://sketchfab.com/3d-models/worn-t-shirt-d1f9599ae1c04af88d17181c5ce3801e) by KotaBearHix (https://sketchfab.com/KotaBearHix) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

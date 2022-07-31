@@ -1,0 +1,11 @@
+Model Information:
+* title:	Frock Design
+* source:	https://sketchfab.com/3d-models/frock-design-2d3f6e6d2a2a4410ab943c0d3df2ca38
+* author:	Osmium (https://sketchfab.com/Osmium)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Frock Design" (https://sketchfab.com/3d-models/frock-design-2d3f6e6d2a2a4410ab943c0d3df2ca38) by Osmium (https://sketchfab.com/Osmium) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

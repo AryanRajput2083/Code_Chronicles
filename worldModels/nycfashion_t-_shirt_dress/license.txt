@@ -1,0 +1,11 @@
+Model Information:
+* title:	nycfashion T- Shirt Dress
+* source:	https://sketchfab.com/3d-models/nycfashion-t-shirt-dress-e42b0ad5a9e744d0907b376257fdc4db
+* author:	mweisburgh (https://sketchfab.com/mweisburgh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "nycfashion T- Shirt Dress" (https://sketchfab.com/3d-models/nycfashion-t-shirt-dress-e42b0ad5a9e744d0907b376257fdc4db) by mweisburgh (https://sketchfab.com/mweisburgh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

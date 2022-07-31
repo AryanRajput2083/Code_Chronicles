@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skirt and t-shirt
+* source:	https://sketchfab.com/3d-models/skirt-and-t-shirt-e0ea80504d914211a96a8c36a4e1a4db
+* author:	Virtual Pandora (https://sketchfab.com/virtualpandora)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skirt and t-shirt" (https://sketchfab.com/3d-models/skirt-and-t-shirt-e0ea80504d914211a96a8c36a4e1a4db) by Virtual Pandora (https://sketchfab.com/virtualpandora) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

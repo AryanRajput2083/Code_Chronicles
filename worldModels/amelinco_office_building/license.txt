@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amelinco Office Building
+* source:	https://sketchfab.com/3d-models/amelinco-office-building-634313e81a78452d90d0c85850a6d896
+* author:	adonis-dio (https://sketchfab.com/adonis-dio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amelinco Office Building" (https://sketchfab.com/3d-models/amelinco-office-building-634313e81a78452d90d0c85850a6d896) by adonis-dio (https://sketchfab.com/adonis-dio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

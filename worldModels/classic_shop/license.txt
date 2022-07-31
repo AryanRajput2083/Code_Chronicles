@@ -1,0 +1,11 @@
+Model Information:
+* title:	Classic Shop
+* source:	https://sketchfab.com/3d-models/classic-shop-4dd862e583f04efc9257bd7133713ea9
+* author:	George (https://sketchfab.com/gosha_pet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Classic Shop" (https://sketchfab.com/3d-models/classic-shop-4dd862e583f04efc9257bd7133713ea9) by George (https://sketchfab.com/gosha_pet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

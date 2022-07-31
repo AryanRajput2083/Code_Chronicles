@@ -1,0 +1,11 @@
+Model Information:
+* title:	Voxel Roads
+* source:	https://sketchfab.com/3d-models/voxel-roads-26ec52caa8d943b1adf93916c8c4db26
+* author:	Zeppelin (https://sketchfab.com/zeppelingames)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Voxel Roads" (https://sketchfab.com/3d-models/voxel-roads-26ec52caa8d943b1adf93916c8c4db26) by Zeppelin (https://sketchfab.com/zeppelingames) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

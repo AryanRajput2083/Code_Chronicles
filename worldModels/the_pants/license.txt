@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Pants
+* source:	https://sketchfab.com/3d-models/the-pants-8939b47916ab4b2486a3fa2613eac54c
+* author:	ARize (https://sketchfab.com/ARizegroup)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Pants" (https://sketchfab.com/3d-models/the-pants-8939b47916ab4b2486a3fa2613eac54c) by ARize (https://sketchfab.com/ARizegroup) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

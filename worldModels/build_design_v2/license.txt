@@ -1,0 +1,11 @@
+Model Information:
+* title:	Build Design V2
+* source:	https://sketchfab.com/3d-models/build-design-v2-74131afd348547c3abd3be13a8014261
+* author:	batu.eken (https://sketchfab.com/batu.eken)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Build Design V2" (https://sketchfab.com/3d-models/build-design-v2-74131afd348547c3abd3be13a8014261) by batu.eken (https://sketchfab.com/batu.eken) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	fridge
+* source:	https://sketchfab.com/3d-models/fridge-77e19e91f00e40a983d4d41ccb524ec7
+* author:	Dmitry Susidko (https://sketchfab.com/susidko.dima)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "fridge" (https://sketchfab.com/3d-models/fridge-77e19e91f00e40a983d4d41ccb524ec7) by Dmitry Susidko (https://sketchfab.com/susidko.dima) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

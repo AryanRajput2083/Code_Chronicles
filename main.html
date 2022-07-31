@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/base.css" />
+    <title>Metaverse</title>
+    <style>
+        body {
+            margin: 0;
+        }
+    </style>
+    <style>
+        #chat1 .form-outline .form-control~.form-notch div {
+            pointer-events: none;
+            border: 1px solid;
+            border-color: #eee;
+            box-sizing: border-box;
+            background: transparent;
+        }
+
+        #chat1 .form-outline .form-control~.form-notch .form-notch-leading {
+            left: 0;
+            top: 0;
+            height: 100%;
+            border-right: none;
+            border-radius: .65rem 0 0 .65rem;
+        }
+
+        #chat1 .form-outline .form-control~.form-notch .form-notch-middle {
+            flex: 0 0 auto;
+            max-width: calc(100% - 1rem);
+            height: 100%;
+            border-right: none;
+            border-left: none;
+        }
+
+        #chat1 .form-outline .form-control~.form-notch .form-notch-trailing {
+            flex-grow: 1;
+            height: 100%;
+            border-left: none;
+            border-radius: 0 .65rem .65rem 0;
+        }
+
+        #chat1 .form-outline .form-control:focus~.form-notch .form-notch-leading {
+            border-top: 0.125rem solid #39c0ed;
+            border-bottom: 0.125rem solid #39c0ed;
+            border-left: 0.125rem solid #39c0ed;
+        }
+
+        #chat1 .form-outline .form-control:focus~.form-notch .form-notch-leading,
+        #chat1 .form-outline .form-control.active~.form-notch .form-notch-leading {
+            border-right: none;
+            transition: all 0.2s linear;
+        }
+
+        #chat1 .form-outline .form-control:focus~.form-notch .form-notch-middle {
+            border-bottom: 0.125rem solid;
+            border-color: #39c0ed;
+        }
+
+        #chat1 .form-outline .form-control:focus~.form-notch .form-notch-middle,
+        #chat1 .form-outline .form-control.active~.form-notch .form-notch-middle {
+            border-top: none;
+            border-right: none;
+            border-left: none;
+            transition: all 0.2s linear;
+        }
+
+        #chat1 .form-outline .form-control:focus~.form-notch .form-notch-trailing {
+            border-top: 0.125rem solid #39c0ed;
+            border-bottom: 0.125rem solid #39c0ed;
+            border-right: 0.125rem solid #39c0ed;
+        }
+
+        #chat1 .form-outline .form-control:focus~.form-notch .form-notch-trailing,
+        #chat1 .form-outline .form-control.active~.form-notch .form-notch-trailing {
+            border-left: none;
+            transition: all 0.2s linear;
+        }
+
+        #chat1 .form-outline .form-control:focus~.form-label {
+            color: #39c0ed;
+        }
+
+        #chat1 .form-outline .form-control~.form-label {
+            color: #bfbfbf;
+        }
+
+    </style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <div id="div1" class="wrapper">
+        <canvas id="c"></canvas>
+    </div>
+    <div class="frame">
+        <h1 class="frame__title2" id="usern">
+        </h1>
+
+        <button type="button" class="btn btn-outline-info" id="gotoCart">Go To Cart</button>
+
+    </div>
+    <div class="chat" id="ttt" >
+        <div class="container py-5" style="height: 100%;" >
+            <div style="height: 100%;" >
+                <div style="height: 100%;">
+                    <div class="card" id="chat1" style="border-radius: 15px; margin: 10px; height: 100%;">
+                        <div class="card-header d-flex justify-content-between align-items-center p-3 bg-info text-white border-bottom-0"
+                            style="border-top-left-radius: 15px; border-top-right-radius: 15px;">
+                            <!-- <i class="fas fa-angle-left"></i> -->
+                            <p class="mb-0 fw-bold">Live chat</p>
+                            <!-- <i id="otherun" class="fas fa-times"></i> -->
+                            
+                            <!-- <button type="button" class="btn btn-primary" style="width: 48%; margin-top: 2px;"
+                                id="hs">hide</button> -->
+                            <bb id="hs" >hide</bb>
+                        </div>
+                        <div id="chats" class="card-body" style="padding: 10px; position: relative; height: 100%; " >
+                            <div id="asd" style="padding: 2px; position: relative; overflow-x: hidden; overflow-y: auto; height: 65%; ">
+
+                                <!-- <div class="d-flex flex-row justify-content-start mb-4">
+                                    <div class="p-3 ms-3"
+                                        style="border-radius: 15px; background-color: rgba(57, 192, 237,.2);">
+                                        <p class="small mb-0">
+
+                                            Hello and thank you for visiting MDBootstrap. Please click the video below.
+                                            thanks
+
+                                        </p>
+                                    </div>
+                                </div>
+
+
+                                <div class="d-flex flex-row justify-content-end mb-4">
+                                    <div class="p-3 me-3 border"
+                                        style="border-radius: 15px; background-color: #fbfbfb;">
+                                        <p class="small mb-0">
+
+                                            Thank you, I really like your product.
+
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex flex-row justify-content-start mb-4">
+                                    <div class="p-3 ms-3"
+                                        style="border-radius: 15px; background-color: rgba(57, 192, 237,.2);">
+                                        <p class="small mb-0">
+
+                                            ...
+
+                                        </p>
+                                    </div>
+                                </div> -->
+
+                            </div>
+
+                            <div class="form-outline">
+                                <textarea class="form-control" id="tA" rows="2"></textarea>
+                                <!-- <label class="form-label" for="textAreaExample">Type your message</label> -->
+                            </div>
+                            <button type="button" class="btn btn-primary" style="width: 100%; margin-top: 2px; "
+                                id="send">Send</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <span id="textb" class="action">
+
+        Loading Models...
+    </span>
+    <script type="module" src="scripts/main.js"></script>
+
+    <!-- <section style="background-color: #eee;"> -->
+
+    <!-- </section> -->
+</body>
+
+</html>

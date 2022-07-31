@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden  bench
+* source:	https://sketchfab.com/3d-models/wooden-bench-d0d490b69fea45cc93151a4b83e055ad
+* author:	Gunnar Correa (https://sketchfab.com/gunnarcorrea)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden  bench" (https://sketchfab.com/3d-models/wooden-bench-d0d490b69fea45cc93151a4b83e055ad) by Gunnar Correa (https://sketchfab.com/gunnarcorrea) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

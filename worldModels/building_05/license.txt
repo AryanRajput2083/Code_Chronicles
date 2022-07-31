@@ -1,0 +1,11 @@
+Model Information:
+* title:	Building 05
+* source:	https://sketchfab.com/3d-models/building-05-b8138441c5514e3484894eb68123bc41
+* author:	Shalmon (https://sketchfab.com/nashalanandas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Building 05" (https://sketchfab.com/3d-models/building-05-b8138441c5514e3484894eb68123bc41) by Shalmon (https://sketchfab.com/nashalanandas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

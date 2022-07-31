@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lo Poly Shop
+* source:	https://sketchfab.com/3d-models/lo-poly-shop-170911d2251d4f0aad2aef54216df12b
+* author:	tl0615 (https://sketchfab.com/tl0615)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lo Poly Shop" (https://sketchfab.com/3d-models/lo-poly-shop-170911d2251d4f0aad2aef54216df12b) by tl0615 (https://sketchfab.com/tl0615) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

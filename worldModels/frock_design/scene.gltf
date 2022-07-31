@@ -1,0 +1,365 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 42438,
+      "max": [
+        262.24212646484375,
+        1603.9254150390625,
+        136.891845703125
+      ],
+      "min": [
+        -259.7303161621094,
+        418.0324401855469,
+        -202.9901580810547
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 509256,
+      "componentType": 5126,
+      "count": 42438,
+      "max": [
+        1.0,
+        0.9951042532920837,
+        0.9999978542327881
+      ],
+      "min": [
+        -0.9999443292617798,
+        -0.9995339512825012,
+        -0.9999980330467224
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 42438,
+      "max": [
+        9.462477684020996,
+        2.1784024238586426
+      ],
+      "min": [
+        -2.8029396533966064,
+        -4.902325630187988
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 339504,
+      "componentType": 5126,
+      "count": 42438,
+      "max": [
+        9.462477684020996,
+        2.1784024238586426
+      ],
+      "min": [
+        -2.8029396533966064,
+        -4.902325630187988
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 240900,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1018512,
+      "componentType": 5126,
+      "count": 29807,
+      "max": [
+        266.8798828125,
+        1552.1737060546875,
+        167.69354248046875
+      ],
+      "min": [
+        -263.9239196777344,
+        414.5060729980469,
+        -84.67423248291016
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1376196,
+      "componentType": 5126,
+      "count": 29807,
+      "max": [
+        1.0,
+        0.9977650046348572,
+        0.9999963045120239
+      ],
+      "min": [
+        -0.9999735355377197,
+        -0.9995494484901428,
+        -0.9999964237213135
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 679008,
+      "componentType": 5126,
+      "count": 29807,
+      "max": [
+        9.701414108276367,
+        2.739835262298584
+      ],
+      "min": [
+        -2.8751823902130127,
+        -5.884842872619629
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 917464,
+      "componentType": 5126,
+      "count": 29807,
+      "max": [
+        9.701414108276367,
+        2.739835262298584
+      ],
+      "min": [
+        -2.8751823902130127,
+        -5.884842872619629
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 963600,
+      "componentType": 5125,
+      "count": 171960,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Osmium (https://sketchfab.com/Osmium)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/frock-design-2d3f6e6d2a2a4410ab943c0d3df2ca38",
+      "title": "Frock Design"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1651440,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1155920,
+      "byteOffset": 1651440,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1733880,
+      "byteOffset": 2807360,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4541240,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material25779_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Material25773_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material25779",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material25773",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6362576630949243
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Blue dress_Material25779_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Blue dress_Material25773_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "f6d53ee4959a4fbb85fd90a14dfc2c4e.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        0.10000000149011612,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.10000000149011612,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.10000000149011612,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Blue dress"
+    },
+    {
+      "mesh": 0,
+      "name": "Blue dress_Material25779_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Blue dress_Material25773_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

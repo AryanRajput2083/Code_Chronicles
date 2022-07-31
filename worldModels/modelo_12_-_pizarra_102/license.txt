@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modelo 12 - Pizarra 102
+* source:	https://sketchfab.com/3d-models/modelo-12-pizarra-102-8e285cb14ee04af69e2d6676ac9102f8
+* author:	DolmosStudio (https://sketchfab.com/DolmosStudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modelo 12 - Pizarra 102" (https://sketchfab.com/3d-models/modelo-12-pizarra-102-8e285cb14ee04af69e2d6676ac9102f8) by DolmosStudio (https://sketchfab.com/DolmosStudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

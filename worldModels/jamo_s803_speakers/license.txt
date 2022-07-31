@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jamo S803 speakers
+* source:	https://sketchfab.com/3d-models/jamo-s803-speakers-47c1da3925ee41a39befc061997d8291
+* author:	gorzi (https://sketchfab.com/gorzi90)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jamo S803 speakers" (https://sketchfab.com/3d-models/jamo-s803-speakers-47c1da3925ee41a39befc061997d8291) by gorzi (https://sketchfab.com/gorzi90) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

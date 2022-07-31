@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kurta and palazzo
+* source:	https://sketchfab.com/3d-models/kurta-and-palazzo-8f0e0e368fa9401ba93e5ae2f7703335
+* author:	Virtual Pandora (https://sketchfab.com/virtualpandora)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kurta and palazzo" (https://sketchfab.com/3d-models/kurta-and-palazzo-8f0e0e368fa9401ba93e5ae2f7703335) by Virtual Pandora (https://sketchfab.com/virtualpandora) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

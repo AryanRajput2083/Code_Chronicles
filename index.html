@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/base.css" />
+    <title>Welcome</title>
+    <style>
+        body {
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="div2" class="input_data">
+        <center>
+            <div class="sndCon">
+                Enter your name:<br>
+                <input id="inpt" class="edittext" type="text" name="username" /><br>
+                <button class="buton" onclick="eWorld()">Enter World</button>
+                <script>
+                    function eWorld() {
+                        let username = document.getElementById("inpt").value;
+                        if (username.length > 0) {
+                            sessionStorage.setItem("username", username);
+                            window.location.replace("main.html");
+                        }
+                    }
+                </script>
+            </div>
+        </center>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ramen Shop
+* source:	https://sketchfab.com/3d-models/ramen-shop-3b25ca2501dc4b22bddf8df83f8c4272
+* author:	Claudio.Pereira (https://sketchfab.com/Claudio.Pereira1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ramen Shop" (https://sketchfab.com/3d-models/ramen-shop-3b25ca2501dc4b22bddf8df83f8c4272) by Claudio.Pereira (https://sketchfab.com/Claudio.Pereira1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

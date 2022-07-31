@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMX
+* source:	https://sketchfab.com/3d-models/bmx-c11f877c565e487b8213b4a49708f727
+* author:	stealth86 (https://sketchfab.com/stealth86)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMX" (https://sketchfab.com/3d-models/bmx-c11f877c565e487b8213b4a49708f727) by stealth86 (https://sketchfab.com/stealth86) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

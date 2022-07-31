@@ -1,0 +1,11 @@
+Model Information:
+* title:	T-shirt
+* source:	https://sketchfab.com/3d-models/t-shirt-00daf5abf6d44db9a310b8264ad0e834
+* author:	Sirenko (https://sketchfab.com/sirenko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "T-shirt" (https://sketchfab.com/3d-models/t-shirt-00daf5abf6d44db9a310b8264ad0e834) by Sirenko (https://sketchfab.com/sirenko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
