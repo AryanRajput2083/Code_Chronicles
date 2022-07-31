@@ -1146,13 +1146,13 @@ function changePos(j, vel) {
     }
 }
 function update() {
-    groupmap.forEach(function (value, key) {
-        if (value) {
-            if (key)
-                key.rotation.y += 0.05;
-        }
-    }
-    )
+    // groupmap.forEach(function (value, key) {
+    //     if (value) {
+    //         if (key)
+    //             key.rotation.y += 0.05;
+    //     }
+    // }
+    // )
     if (worldVisible) {
         worl.update();
         requestAnimationFrame(update);
@@ -1164,7 +1164,7 @@ function update() {
     })
     Amixers.forEach(function (value, key) {
         if (value) {
-            let scl = 60;
+            let scl = 80;
             const dlta = clock.getDelta();
             if (key == username) scl = 1;
             value.update(scl * dlta);
@@ -1221,10 +1221,10 @@ function gotocart() {
 }
 function writeMes(str, b) {
     let dd = '';
-    if (b) {
+    if (b==username) {
         dd = '<div class="d-flex flex-row justify-content-end mb-2"><div class="p-2 me-1 border" style="border-radius: 15px; background-color: #fbfbfb;"><p class="small mb-0">';
     } else {
-        dd = '<div class="d-flex flex-row justify-content-start mb-2"><div class="p-2 ms-1" style="border-radius: 15px; background-color: rgba(57, 192, 237,.2);"><p class="small mb-0">';
+        dd = '<div class="d-flex flex-row justify-content-start mb-2"><div class="p-2 ms-1" style="border-radius: 15px; background-color: rgba(57, 192, 237,.2);"><h6 style="color:brown; font-size:10px; margin:1px;padding:1px;">'+b+'</h6><p class="small mb-0">';
     }
     dd += (str + '</p></div></div>');
     return dd;
@@ -1232,8 +1232,8 @@ function writeMes(str, b) {
 
 // Key event
 function sendM() {
-    var str = inp.value;
-    var ss = username;
+    var str = inp.value.trim();
+    if(str.length==0) return;
     inp.value = '';
     const d = new Date();
     llld = false;
@@ -1426,7 +1426,7 @@ function listenMsg() {
             var uu = childr.child("from").val();
             if (!msggs.has(childr.key)) {
                 // writeMes(id, uu == username);
-                msggs.set(childr.key, writeMes(id, uu == username));
+                msggs.set(childr.key, writeMes(id, uu));
             }
         })
         document.getElementById('asd').innerHTML = '';
