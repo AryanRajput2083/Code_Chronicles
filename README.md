@@ -13,7 +13,8 @@ experience.
 #### Requirements
 
 - A proper internet connection
-- Open the webapp in your browser and enter any username and password of your choice.
+- Open the webapp in your browser and enter **any username and password of your choice.**
+- Use arrow keys to move the avatar.
 
 ## Contributers
 
