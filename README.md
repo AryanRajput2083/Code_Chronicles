@@ -3,7 +3,7 @@
 ## About Project
 #### MetaCommerce - The Future of Shopping with Metaverse
 
-The solution should focus on:
+The solution focuses on:
 - Building a web-based metaverse using out-of-the-box Avatar generation tools for users to enter and
 experience.
 - Building a shared 3D space on the web that is shared concurrently by many users. 
