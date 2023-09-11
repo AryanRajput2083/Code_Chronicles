@@ -20,4 +20,4 @@ experience.
 
 - [Aryan Rajput](https://github.com/AryanRajput2083)
 - [Harsh Maurya](https://github.com/Harsh-byte-369)
-- Surendra Shekhawat
+- [Surendra Shekhawat](https://github.com/7654SSS)
