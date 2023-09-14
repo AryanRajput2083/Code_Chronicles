@@ -18,6 +18,7 @@ experience.
 
 ## Contributers
 
+- [Ankit Dudi](https://github.com/astrodigger)
 - [Aryan Rajput](https://github.com/AryanRajput2083)
 - [Harsh Maurya](https://github.com/Harsh-byte-369)
 - [Surendra Shekhawat](https://github.com/7654SSS)
